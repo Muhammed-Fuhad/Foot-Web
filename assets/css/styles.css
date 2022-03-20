@@ -402,7 +402,7 @@ span.text{
 .yt-link {
   margin: 0;
   position: absolute;
-  top: 188%;
+  top: 100%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); 
@@ -622,3 +622,6 @@ span.text{
   }
 }
 
+.matchimg2 img{
+  margin-top: 21rem;
+}
